@@ -3,7 +3,6 @@
 ## Overview
 Move-n-stuff is a convenience application that allows users to effectively move their belongings from one place to another without losing track of items. Unlike moving companies who don’t properly organize your stuff, our product lets the user arrange their items in ways that work for them, and know where everything is without needing to unpack.
 
-**Try it Out:** https://www.move-n-stuff.com/
 ## Getting Started
 1. Clone the repository:
    ```
